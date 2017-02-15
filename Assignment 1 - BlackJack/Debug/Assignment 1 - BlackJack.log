@@ -1,0 +1,50 @@
+﻿Build started 06-Dec-15 7:40:07 PM.
+     1>Project "C:\Users\Adam\Documents\Uni\Software Programming\Assignment 1\Assignment 1 - BlackJack\Assignment 1 - BlackJack\Assignment 1 - BlackJack.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(93): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(127): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(132): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(137): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(142): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(147): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(152): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(162): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(172): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(248): warning C4805: '!=' : unsafe mix of type 'int' and type 'bool' in operation
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(321): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\adam\documents\uni\software programming\assignment 1\assignment 1 - blackjack\assignment 1 - blackjack\source.cpp(407): warning C4805: '!=' : unsafe mix of type 'int' and type 'bool' in operation
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Adam\Documents\Uni\Software Programming\Assignment 1\Assignment 1 - BlackJack\Debug\Assignment 1 - BlackJack.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Adam\Documents\Uni\Software Programming\Assignment 1\Assignment 1 - BlackJack\Debug\Assignment 1 - BlackJack.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Adam\Documents\Uni\Software Programming\Assignment 1\Assignment 1 - BlackJack\Debug\Assignment 1 - BlackJack.lib" /MACHINE:X86 Debug\Source.obj
+         Assignment 1 - BlackJack.vcxproj -> C:\Users\Adam\Documents\Uni\Software Programming\Assignment 1\Assignment 1 - BlackJack\Debug\Assignment 1 - BlackJack.exe
+     1>Done Building Project "C:\Users\Adam\Documents\Uni\Software Programming\Assignment 1\Assignment 1 - BlackJack\Assignment 1 - BlackJack\Assignment 1 - BlackJack.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.13
